@@ -25,7 +25,7 @@ SECRET_KEY = '=mez2!!s646w63ho^#-0jk@da7sj^6&#fe5!axi&d_@647%vj0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://mykamkshionlineshop.herokuapp.com"]
 
 
 # Application definition
